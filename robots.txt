@@ -2,5 +2,5 @@
 User-agent: *
 Allow: /
 
-# XML-карта сайта появится после первого деплоя с публичным доменом
-# Sitemap: https://<домен>/sitemap.xml
+# Карта сайта
+Sitemap: https://oskinsergey.github.io/nekrylov-site-pages/sitemap.xml
